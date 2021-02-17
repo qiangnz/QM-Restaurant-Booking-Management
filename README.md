@@ -1,5 +1,5 @@
 # QM-Restaurant-Booking-Management
-Application Features  
+## Application Features  
 •	User able to input name  
 •	User able to enter phone number  
 •	Options for User confirming the booking’s number of people  
