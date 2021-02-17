@@ -15,3 +15,8 @@
 •	Check customer name  
 •	Check blank field  
 •	Ascending or Descending Booking ID, Name, Phone, Num_People,Date, Table_Num  
+
+![image](https://github.com/qiangnz/QM-Restaurant-Booking-Management/blob/master/demo1.JPG)  
+![image](https://github.com/qiangnz/QM-Restaurant-Booking-Management/blob/master/demo2.JPG)  
+![image](https://github.com/qiangnz/QM-Restaurant-Booking-Management/blob/master/demo3.JPG)  
+![image](https://github.com/qiangnz/QM-Restaurant-Booking-Management/blob/master/demo4.JPG)  
